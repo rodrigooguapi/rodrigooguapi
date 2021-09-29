@@ -3,7 +3,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rodrigooguapi)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/rodrigooguapi)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]https://www.youtube.com/channel/UCo_yZ5pma6lN_UGQWNf6I0A)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]https://youtube.com/channel/UCo_yZ5pma6lN_UGQWNf6I0A)
 
 
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigooguapi&show_icons=true&theme=dracula)
